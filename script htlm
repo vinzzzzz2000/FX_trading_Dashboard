@@ -1,11 +1,12 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="icon" href="https://vinzzzzz2000.github.io/FX_trading_Dashboard/favicon.webp" type="image/webp">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
-    "></script> <!-- Email.js -->
+    
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -16,11 +17,8 @@
         }
         h1 {
             color: #fc13ab;
-        }
-        .logo {
-            height: 80px; /* Adjust the size of the logo */
-            margin-right: 5px;
-        }
+        
+}
         .tabs {
             display: flex;
             background-color: #333;
